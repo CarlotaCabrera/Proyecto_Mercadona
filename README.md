@@ -12,3 +12,5 @@ https://docs.google.com/spreadsheets/d/1veMShjPdCq74w_b8I89oL3PGckp-iDKe271mJz3Y
 Interfaz de usuario (Figma):
 https://www.figma.com/make/XyEAtJ6JjfsAuK6YgGk1QM/Product-Registration-Screen?p=f&t=FF2RJpwtm4pC8GmH-0
 
+Report (Word):
+https://upvedues-my.sharepoint.com/:w:/g/personal/ccabcab_upv_edu_es/IQDnMMRH1qRVRLSaowX0m0cEAfR9nL1DakwOaF7l3u2XqkM?e=GUXW3e
